@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  ingress:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-07-03T09:26:46.662515563Z"
+    description: A Helm chart for Kubernetes
+    digest: e43c76edf1320967c8ae5d58e665315818c7604a7dd41c51d4936bf82b799e4d
+    name: ingress
+    type: application
+    urls:
+    - https://github.com/PlugPlatforms-Technology/helm-charts/releases/download/ingress-0.0.1/ingress-0.0.1.tgz
+    version: 0.0.1
   plugs:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://github.com/PlugPlatforms-Technology/helm-charts/releases/download/plugs-0.0.1/plugs-0.0.1.tgz
     version: 0.0.1
-generated: "2023-07-03T09:25:30.908324649Z"
+generated: "2023-07-03T09:26:46.662524563Z"
