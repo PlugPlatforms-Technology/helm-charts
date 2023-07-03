@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  plugs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-03T09:25:30.908320149Z"
+    description: A Helm chart for Kubernetes
+    digest: adfbb0b2a5debc177f1e45421205857ebf079db79261075faa9cf5771720f892
+    name: plugs
+    type: application
+    urls:
+    - https://github.com/PlugPlatforms-Technology/helm-charts/releases/download/plugs-0.0.1/plugs-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-07-03T09:25:30.908324649Z"
