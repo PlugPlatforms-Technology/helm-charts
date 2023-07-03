@@ -19,7 +19,7 @@ ingress:
     # alb.ingress.kubernetes.io/success-codes: "200"
 
   hosts:
-    - host: nginx.plugstech.com
+    - host: nginx.plugstech.com.ng
       paths:
         - path: /
           pathType: Prefix
